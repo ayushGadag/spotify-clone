@@ -1,0 +1,18 @@
+.lx{
+   width: 32px;
+     padding: 15px 20px;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.invert{
+    filter: invert(1);
+    
+}
+.lib{
+    margin: 5px;
+    border-color: black;
+    /* position: absolute; */
+    
+}
